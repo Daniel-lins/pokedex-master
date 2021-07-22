@@ -1,6 +1,6 @@
 # Pokedex 
 Você pode acessar o projeto pelo link abaixo<br>
-<a href="https://vercel.com/daniellins2654/pokedex-master">Aqui</a>
+<a href="https://pokedex-master.vercel.app/">Aqui</a>
 
 ## Sobre o projeto
  Pokedex é um projeto onde requisitamos uma api com informações de pokemons, e com a informação listamos os pokemons em um layout responsivo, fazendo assim uma pokedex de pokemons.
